@@ -1,4 +1,4 @@
-package gingorm
+package main
 
 import "gingorm/router"
 
